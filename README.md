@@ -1,4 +1,10 @@
-<h3 align="center">👋 Hello, I'm Mona Badran!</h3>
+<h1 align="center">👋 Hello, I'm Mona Badran!</h1>
+
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJzNjFwdjAwZDh1ZGFtYXdteG9kNWNmMXFqMWNobG13b3Z0ZTIzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" alt="Funny GIF">
+</div>
+
 
 **🌟 About Me**
  
