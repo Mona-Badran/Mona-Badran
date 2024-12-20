@@ -7,20 +7,19 @@
 
 
 **🌟 About Me**
- 
-- I'm a passionate Software Engineer with aspirations in Machine Learning and Web Development. I thrive on understanding how technology works and applying it to create solutions that benefit my community and empower women in tech.
+
+A **Software Engineer** passionate about **Machine Learning** and **Web Development**. I love exploring how technology works to create impactful solutions and empower women in tech.
 
 **🎶 Hobbies & Interests**
 
-- When I’m not coding, you can find me playing the piano or guitar, exploring creative embroidery projects, or sharing random fun facts; I’m known as “the encyclopedia” in my family for a reason! 😊
+- 🎹 Playing piano and guitar  
 
 **🚀 What Drives Me**
 
-- I believe in using technology as a tool for empowerment and innovation. My ultimate goal is to make a meaningful impact through my work in the tech space.
+- Using technology to empower, innovate, and make a difference.
 
 **📫 Reach me through    mona.b.badran@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mona-badran" alt="mona-badran" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +32,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mona-badran&show_icons=true&locale=en&layout=compact" alt="mona-badran" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mona-badran&show_icons=true&locale=en" alt="mona-badran" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mona-badran" alt="mona-badran" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mona-badran&" alt="mona-badran" /></p>
